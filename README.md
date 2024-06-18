@@ -35,5 +35,9 @@
 ![enter the corresponding name in database](/env%20naming.png)
 
 5. Enter "php artisan migrate:fresh" to create the database
+
+6. To run the system, you need to enter "php artisan serve" in the terminal
+
+![php artisan serve command](/php%20artisan%20serve.png)
  
 ### Now you can access my Registration System
