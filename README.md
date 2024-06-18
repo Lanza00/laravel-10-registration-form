@@ -2,7 +2,7 @@
 ## This project is about creating registration form
 
 ### Database Use
-#### User Table
+#### Table that available
 - name
 - email
 - password
