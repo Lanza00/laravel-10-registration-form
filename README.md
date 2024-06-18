@@ -8,7 +8,7 @@
 - password
 
 #### Company Table
-- compnay_name
+- company_name
 
 #### Requirement
 - php 8.1 above
