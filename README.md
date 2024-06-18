@@ -27,9 +27,11 @@
 ![The cloning process has finish](/git%20clone%202.png)
 
 3. Enter "composer install" and wait
+
 ![do composer install in the cmd](/composer%20install.png)
 
 4. Enter you database connection in the .env file
+
 ![enter the corresponding name in database](/env%20naming.png)
 
 5. Enter "php artisan migrate:fresh" to create the database
