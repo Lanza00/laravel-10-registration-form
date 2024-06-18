@@ -1,5 +1,15 @@
 # Welcome to My Repo
 ## This project is about creating registration form
+
+### Database Use
+#### User Table
+- name
+- email
+- password
+
+#### Company Table
+- compnay_name
+
 #### Requirement
 - php 8.1 above
 - Laragon
@@ -21,6 +31,7 @@
 
 4. Enter you database connection in the .env file
 ![enter the corresponding name in database](/env%20naming.png)
+
 5. Enter "php artisan migrate:fresh" to create the database
  
 ### Now you can access my Registration System
