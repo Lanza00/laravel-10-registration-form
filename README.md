@@ -1,7 +1,6 @@
 # Welcome to My Repo
 ## This project is about creating registration form
 
-### Database Use
 #### Table that available
 - name
 - email
@@ -15,7 +14,7 @@
 - Laragon
 - MySQLYog for database managing
 - Visual Studio Code for source code editor
-
+---
 #### Deployment Steps
 
 1. clone the github repo and paste into the cmd on desired folder
@@ -42,6 +41,4 @@
  
 ### Now you can access my Registration System
 ---
-
 > relationship between table not success
-
