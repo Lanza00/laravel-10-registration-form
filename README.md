@@ -2,6 +2,7 @@
 ## This project is about creating registration form
 
 #### Table that available
+#### User
 - name
 - email
 - password
